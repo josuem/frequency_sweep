@@ -6,6 +6,15 @@ generates a CSV file for each frequency with the corresponding sample rate.
 This program performs a frequency sweep using an MSO7024 oscilloscope connected via USB. The initial, final and increment frequency are defined by the user in the start_frequency, stop_frequency and d_frequency variables, respectively. The voltage and waiting time are also defined by the user in the voltage_source and time_waiting variables. The data is saved in a folder called "data" on drive D.
 
 ## Libraries
+You need to have installed the [NI-VISA](https://www.ni.com/es-cl/support/downloads/drivers/download.ni-visa.html#460225) API in your computer for run this code.
+
+### Python
+Install the requirements.txt file using conda:
+
+```bash
+conda install --file requirements.txt
+```
+
 The following libraries are imported in the code:
 
 - pyvisa
