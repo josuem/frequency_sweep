@@ -1,2 +1,0 @@
-frecuencia muestreo [S/s],Samples [S],dt/div [s],ch1 [V/div],ch2 [V/div],start freq [Hz], stop freq [Hz]
-2.000000E+4,2.0000E+07,1.000000E+2,5E-2,1E1,1000,90000
