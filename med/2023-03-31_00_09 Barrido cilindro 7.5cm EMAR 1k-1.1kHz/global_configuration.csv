@@ -1,0 +1,2 @@
+,start_frequency,stop_frequency,d_frequency,voltaje_source,sample_rate,time_base
+0,30000,40000,2,20,100k,0.1

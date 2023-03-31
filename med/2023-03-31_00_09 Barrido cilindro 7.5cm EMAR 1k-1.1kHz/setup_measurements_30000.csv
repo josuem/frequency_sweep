@@ -1,0 +1,3 @@
+,timescale,timeoffset,voltscale,voltoffset,sample_rate,XRef,YRef,dV
+0,0.1,0.0,0.5,0.98,100000.0,1e-05,128.0,0.021341
+1,0.1,0.0,0.005,-0.0098,100000.0,1e-05,128.0,0.0001952
